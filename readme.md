@@ -1,4 +1,4 @@
-This is the archives of what I have created on qdan.me, a online list note sharing service.
+This is the archives of what I have created on qdan.me, a online note-taking and sharing service.
 
 Preview of the pages:
 

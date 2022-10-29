@@ -1,4 +1,4 @@
-This is the archives of what I have created on qdan.me ([Internet Archive](https://web.archive.org/web/20160404065350/https://qdan.me/about)), a online note-taking and sharing service.
+This is the archives of what I have created on qdan.me ([Internet Archive](https://web.archive.org/web/20160404065350/https://qdan.me/about)), an online note-taking and sharing service which was shutted down several years ago. It is my another move on resisting the [Link rot](https://en.wikipedia.org/wiki/Link_rot).
 
 Preview of the pages:
 
